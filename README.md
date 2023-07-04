@@ -14,6 +14,13 @@ This repository contains the code for a project that combines multiple face reco
 - **Real-time Processing:** The system operates in real-time, making it suitable for various applications such as access control, attendance systems, or surveillance systems.
 - **Easy Integration:** The codebase is designed to be modular and easily integrable into other projects or applications.
 
+## Demo
+
+https://github.com/Saan-king/-Multiple-Face-Recognition-and-Liveness-Detection-using-CNN/assets/58635762/ef03d279-3bc1-4cc3-a7a7-4f68e3796489
+
+Find more here:
+https://www.youtube.com/playlist?list=PLrif0E-uS0yjf99hxLkM82gvsYhx-NweG
+
 ## Installation
 
 1. Clone this repository to your local machine:
