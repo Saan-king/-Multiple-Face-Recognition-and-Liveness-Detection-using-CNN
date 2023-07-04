@@ -12,7 +12,7 @@ This repository contains the code for a project that combines multiple face reco
 - **Liveness Detection:** To prevent spoofing attacks and ensure the liveness of the detected faces, the project incorporates a liveness detection mechanism. It can distinguish between real human faces and non-living objects or printed images.
 - **Deep Learning Framework:** The implementation is built using TensorFlow, a popular deep learning framework, which allows for efficient training and inference of CNN models.
 - **Real-time Processing:** The system operates in real-time, making it suitable for various applications such as access control, attendance systems, or surveillance systems.
-- **Easy Integration:** The codebase is designed to be modular and easily integrable into other projects or applications.
+- **Easy Integration:** The codebase is designed to be modular and easily integrable into other projects or application.
 
 ## Demo
 
@@ -20,6 +20,11 @@ https://github.com/Saan-king/-Multiple-Face-Recognition-and-Liveness-Detection-u
 
 Find more here:
 https://www.youtube.com/playlist?list=PLrif0E-uS0yjf99hxLkM82gvsYhx-NweG
+
+### Source Code:
+
+Face Recognition: https://colab.research.google.com/drive/1Ho40OO79YikK0D3A6eJfudgCJoW0t7Gk?usp=sharing <br>
+Liveness Detection: https://colab.research.google.com/drive/1n6Exp9FPHAto06AvTkH9iO3_FSFwn0S3?usp=sharing
 
 ## Installation
 
