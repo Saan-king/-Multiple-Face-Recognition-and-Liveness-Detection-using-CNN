@@ -18,6 +18,10 @@ This repository contains the code for a project that combines multiple face reco
 
 https://github.com/Saan-king/-Multiple-Face-Recognition-and-Liveness-Detection-using-CNN/assets/58635762/ef03d279-3bc1-4cc3-a7a7-4f68e3796489
 
+![image](https://github.com/user-attachments/assets/0954a868-86dd-43d4-b532-d00a9fa8cffc)
+![image](https://github.com/user-attachments/assets/53f52483-4ed1-49c8-8475-bb215c0a07c4)
+
+
 Find more here:
 https://www.youtube.com/playlist?list=PLrif0E-uS0yjf99hxLkM82gvsYhx-NweG
 
